@@ -1,0 +1,77 @@
+Date,Amount,Category,Description
+2025-01-01,25.0,Food,Lunch at cafe
+2025-01-01,15.5,Transport,Bus fare
+2025-01-02,60.0,Utilities,Electricity bill
+2025-01-02,40.0,Entertainment,Movie tickets
+2025-01-03,30.5,Food,Grocery shopping
+2025-01-04,12.75,Transport,Taxi ride
+2025-01-05,80.0,Utilities,Internet bill
+2025-01-06,22.5,Food,Dinner takeout
+2025-01-07,18.0,Transport,Train ticket
+2025-01-08,35.0,Entertainment,Concert ticket
+2025-01-09,28.0,Food,Coffee shop
+2025-01-10,55.0,Utilities,Water bill
+2025-01-11,45.0,Food,Supermarket
+2025-01-12,20.0,Transport,Subway pass
+2025-01-13,50.0,Entertainment,Streaming subscription
+2025-01-14,27.5,Food,Restaurant dinner
+2025-01-15,65.0,Utilities,Gas bill
+2025-01-16,15.25,Transport,Bicycle repair
+2025-01-17,42.0,Entertainment,Theater show
+2025-01-18,33.0,Food,Grocery store
+2025-01-19,90.0,Utilities,Phone bill
+2025-01-20,25.0,Transport,Car rental
+2025-01-21,30.0,Food,Lunch meeting
+2025-01-22,70.0,Utilities,Electricity bill
+2025-01-23,38.0,Entertainment,Game subscription
+2025-01-24,40.5,Food,Supermarket
+2025-01-25,22.5,Transport,Taxi fare
+2025-01-26,28.5,Food,Dinner out
+2025-01-27,85.0,Utilities,Internet bill
+2025-01-28,16.0,Transport,Train fare
+2025-01-29,45.0,Entertainment,Movie night
+2025-01-30,35.5,Food,Grocery shopping
+2025-01-31,19.5,Transport,Bus pass
+2025-02-01,62.0,Utilities,Gas bill
+2025-02-02,27.0,Food,Fast food
+2025-02-03,50.0,Entertainment,Concert tickets
+2025-02-04,23.5,Transport,Subway ticket
+2025-02-05,31.0,Food,Lunch at cafe
+2025-02-06,78.0,Utilities,Water bill
+2025-02-07,39.0,Food,Supermarket
+2025-02-08,32.0,Transport,Car maintenance
+2025-02-09,55.0,Entertainment,Theme park
+2025-02-10,26.5,Food,Dinner takeout
+2025-02-11,95.0,Utilities,Phone bill
+2025-02-12,28.0,Transport,Car rental
+2025-02-13,34.0,Food,Lunch meeting
+2025-02-14,72.0,Utilities,Electricity bill
+2025-02-15,41.5,Food,Valentine's dinner
+2025-02-16,17.5,Transport,Bus fare
+2025-02-17,60.0,Entertainment,Game subscription
+2025-02-18,36.0,Food,Grocery store
+2025-02-19,20.5,Transport,Train ticket
+2025-02-20,29.5,Food,Coffee shop
+2025-02-21,88.0,Utilities,Internet bill
+2025-02-22,48.0,Entertainment,Theater show
+2025-02-23,24.0,Transport,Taxi fare
+2025-02-24,37.5,Food,Supermarket
+2025-02-25,74.0,Utilities,Gas bill
+2025-02-26,30.0,Food,Dinner out
+2025-02-27,19.0,Transport,Subway pass
+2025-02-28,52.0,Entertainment,Concert
+2025-03-01,66.0,Utilities,Water bill
+2025-03-02,27.5,Food,Lunch at cafe
+2025-03-03,15.75,Transport,Bus fare
+2025-03-04,45.0,Entertainment,Movie night
+2025-03-05,38.5,Food,Grocery shopping
+2025-03-06,22.0,Transport,Train ticket
+2025-03-07,80.0,Utilities,Phone bill
+2025-03-08,33.0,Food,Supermarket
+2025-03-09,50.0,Entertainment,Streaming subscription
+2025-03-10,28.5,Food,Dinner takeout
+2025-03-11,25.0,Transport,Car rental
+2025-03-12,70.0,Utilities,Electricity bill
+2025-03-13,39.0,Food,Lunch meeting
+2025-03-14,18.5,Transport,T
+2025-01-13,100.0,Food,food description
